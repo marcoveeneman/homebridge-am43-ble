@@ -3,7 +3,7 @@
     "pluginType": "platform",
     "singular": true,
     "headerDisplay": "A plugin for Bluetooth-based AM43 blind motors",
-    "footerDisplay": "See the [github repo](https://github.com/renssies/homebridge-am43-blinds) for known issues and troubleshooting",
+    "footerDisplay": "See the [github repo](https://github.com/marcoveeneman/homebridge-am43-ble) for known issues and troubleshooting",
     "schema": {
       "type": "object",
       "properties": {

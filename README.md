@@ -1,7 +1,3 @@
-**This plugin has been deprecated, for more info and alternatives see https://github.com/renssies/homebridge-am43-blinds/issues/41#issuecomment-1186548675**
-
-----
-
 # Homebridge AM43 Blinds
 
 A homebridge plugin to control the AM43 based blind motors in HomeKit, these include the A-OK, [Zemismart](https://www.zemismart.com/products/diy-motorized-your-tranditional-roll-shade-which-with-bean-or-cord-chain-smart-home-automation-support-app-timer-remote-control), [Upndown](https://upndown.nl) and other blinds motors that use Bluetooth and the Blinds Engine app.
