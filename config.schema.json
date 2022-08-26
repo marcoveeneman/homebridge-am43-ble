@@ -1,5 +1,5 @@
 {
-    "pluginAlias": "am43-blinds",
+    "pluginAlias": "am43-ble",
     "pluginType": "platform",
     "singular": true,
     "headerDisplay": "A plugin for Bluetooth-based AM43 blind motors",
